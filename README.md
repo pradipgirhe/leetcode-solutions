@@ -9,4 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0400-nth-digit) |
+| [1095-find-in-mountain-array](https://github.com/pradipgirhe/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Array
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pradipgirhe/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pradipgirhe/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/pradipgirhe/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
