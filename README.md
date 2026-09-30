@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/pradipgirhe/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
