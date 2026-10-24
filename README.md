@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0704-binary-search](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0704-binary-search) |
 | [1095-find-in-mountain-array](https://github.com/pradipgirhe/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 ## Interactive
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/pradipgirhe/leetcode-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
